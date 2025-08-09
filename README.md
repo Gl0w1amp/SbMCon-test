@@ -1,2 +1,2 @@
 # SbMCon-test
-A web-based tool for testing StrawBerryMilk series controllers.
+A GUI tool for configuring StrawBerryMilk series controllers.
